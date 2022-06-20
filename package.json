@@ -1,0 +1,25 @@
+{
+  "name": "io.electrosoft.helloworld",
+  "version": "0.0.1",
+  "description": "test hello",
+  "cordova": {
+    "id": "io.electrosoft.helloworld",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragati1601/helloWordPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Pragati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragati1601/helloWordPlugin/issues"
+  },
+  "homepage": "https://github.com/pragati1601/helloWordPlugin#readme"
+}
